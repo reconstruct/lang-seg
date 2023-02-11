@@ -27,7 +27,7 @@ grpcio==1.41.0
 idna==3.3
 imageio==2.9.0
 ipykernel==6.4.1
-ipython==7.28.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.5
 jedi==0.18.0
